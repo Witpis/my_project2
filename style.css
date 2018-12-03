@@ -1,0 +1,62 @@
+h1{
+	font-size: 80px;
+	color:red;
+	background-color: yellow;
+
+	}
+
+h2{font-family: Kumar One Outline}
+
+a{ text-decoration: none; }
+
+img{
+	border-radius: 20%
+}
+
+body{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#deefff+49,98bede+100 */
+background: #deefff; /* Old browsers */
+background: -moz-linear-gradient(top, #deefff 49%, #98bede 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #deefff 49%,#98bede 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #deefff 49%,#98bede 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deefff', endColorstr='#98bede',GradientType=0 ); /* IE6-9 */s
+}
+
+#bonjour{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%
+}
+
+#bonsoir{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%
+}
+#bonaprem{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%
+}
+#bonmidi{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%
+}
+
+div{color: black}
+
+#haha{
+	color: black;
+	box-shadow: 10%;
+}
+
+#blocktxt #gauche{
+	background: yellow;
+	border-radius: 40%
+	float: left;
+	margin-left: 10%
+}
+#blocktxt #droite{
+	margin-left: 60%
+}
